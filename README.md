@@ -10,6 +10,23 @@
   <img src="https://img.shields.io/github/languages/top/enqryptedd/Roblox-Scripts?color=a80505">
 </p>
 
+<h1 align="center">SCRIPTS COPY AND PASTE</h1>
+
+<h2>Dance Script</h2>
+
+```lua
+-- Dance Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/enqryptedd/Roblox-Scripts/refs/heads/main/DanceScript.lua"))()
+```
+
+<h2>Aimbot Script</h2>
+
+```lua
+-- Aimbot Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/enqryptedd/Roblox-Scripts/refs/heads/main/Aimbot.lua"))()
+```
+<br><br>
+
 <p>
   - Developed in <strong>Lua</strong> by <a href="https://enqryptedd.vercel.app">enqryptedd</a><br>
   - Tool in <strong>English</strong>.<br>
@@ -39,19 +56,3 @@
   - By choosing to use these Roblox Scripts, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
 <br><br>
 </p>
-
-<h1 align="center">SCRIPTS COPY AND PASTE</h1>
-
-<h2>Dance Script</h2>
-
-```lua
--- Dance Script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/enqryptedd/Roblox-Scripts/refs/heads/main/DanceScript.lua"))()
-```
-
-<h2>Aimbot Script</h2>
-
-```lua
--- Aimbot Script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/enqryptedd/Roblox-Scripts/refs/heads/main/Aimbot.lua"))()
-```
