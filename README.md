@@ -1,4 +1,4 @@
-<h1 align="center">Network Bruteforce</h1>
+<h1 align="center">Roblox Scripts by @enqryptedd</h1>
 
 <p align="center">
    <a href="https://discord.com/users/1183768582505640010">Discord</a>
