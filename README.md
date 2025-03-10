@@ -29,7 +29,7 @@
 <h3>Solara</h3><br>
 <h3>Velocity</h3><br>
 <h3>Wave</h3><br>
-<h2>and etc...</h2><br><br>
+<h2>and etc...</h2><br>
 
 <h1 align="center">Disclaimer</h1>
 
