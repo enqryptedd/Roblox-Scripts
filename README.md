@@ -30,7 +30,7 @@
 <h3>Velocity</h3><br>
 <h3>Wave</h3><br>
 <h2>and etc...</h2><br>
-
+   <br><br>
 <h1 align="center">Disclaimer</h1>
 
 <p>
