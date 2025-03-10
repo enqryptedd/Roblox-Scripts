@@ -23,14 +23,16 @@
 
 <h1 align="center">Executors (high to low supported)</h1>
 
-<h3>Eclipse</h3><br>
-<h3>Xeno</h3><br>
-<h3>Argon</h3><br>
-<h3>Solara</h3><br>
-<h3>Velocity</h3><br>
-<h3>Wave</h3><br>
-<h2>and etc...</h2><br>
-   <br><br>
+<p>
+  
+  - Eclipse<br>
+  - Xeno<br>
+  - Velocity<br>
+  - Argon<br>
+  - Swift (patched)<br>
+<br><br>
+</p>
+
 <h1 align="center">Disclaimer</h1>
 
 <p>
